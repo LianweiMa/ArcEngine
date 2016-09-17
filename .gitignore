@@ -34,3 +34,6 @@
 # C#
 bin
 obj
+
+# ArcEngine
+ArcGISTest
